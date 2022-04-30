@@ -1,0 +1,11 @@
+.nav-item{
+    font-size: 20px;
+}
+#navbarid{
+    padding-left: 22px;
+    margin: 20px;
+}
+.navbar-nav{
+    margin: auto;
+  padding: 10px;
+}
